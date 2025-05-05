@@ -1,0 +1,10 @@
+.settings
+
+.classpath
+.factorypath
+.project
+.idea
+target
+
+bin
+output
