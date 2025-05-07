@@ -1,4 +1,4 @@
-package coba.api.psd2.signapp;
+package com.test.eidas.trustlist.lotl;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;

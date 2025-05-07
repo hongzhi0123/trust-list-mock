@@ -1,4 +1,4 @@
-package coba.api.psd2.signapp.ca;
+package com.test.eidas.trustlist.ca;
 
 import java.io.FileOutputStream;
 import java.io.FileWriter;

@@ -1,4 +1,4 @@
-package coba.api.psd2.signapp.lotl.model;
+package com.test.eidas.trustlist.lotl.model;
 
 import lombok.Data;
 import java.util.List;
